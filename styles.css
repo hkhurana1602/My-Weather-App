@@ -1,0 +1,32 @@
+.container-fluid{
+    background-color: aliceblue;
+}
+
+.heads{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+.display-6{
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-header{
+    background-color: aliceblue;
+}
+
+#weatherImage{
+    height : 190px
+}
+
+.cards1{
+    background-image: url("bg.jpg");
+}
+
+.cards2{
+    background-image: url("humidity.jpeg");
+    background-size: cover;
+}
+
